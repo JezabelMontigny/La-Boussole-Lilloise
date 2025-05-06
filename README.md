@@ -11,7 +11,7 @@ Pendant plusieurs semaines, avec 3 coéquipiers en formation data analyst, nous 
 ➡️ Découvrez tous les outils utilisés et les fonctionnalités dans le descriptif ci-dessous.  
 
 
-L’application propose :
+**L’application propose :**
 
   🌤️ Visualisation de la météo en temps réel
 
@@ -26,7 +26,7 @@ L’application propose :
   🎫 Détail des tarifs des tickets et abonnements pour les transports en commun
 
 
-🛠️ Outils et technologies utilisés 
+**🛠️ Outils et technologies utilisés**
 
   🐍 Python
 
