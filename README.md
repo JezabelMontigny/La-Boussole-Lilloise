@@ -13,33 +13,33 @@ Pendant plusieurs semaines, avec 3 coéquipiers en formation data analyst, nous 
 
 L’application propose :
 
-🌤️ Visualisation de la météo en temps réel
+  🌤️ Visualisation de la météo en temps réel
 
-🚲 Disponibilité des vélos V’lille à proximité
+  🚲 Disponibilité des vélos V’lille à proximité
 
-🚌 Accès aux horaires des bus à partir d’une adresse ou via géolocalisation
+  🚌 Accès aux horaires des bus à partir d’une adresse ou via géolocalisation
 
-🗺️ Cartographie des stations de transports (vélos, bus, métro)
+  🗺️ Cartographie des stations de transports (vélos, bus, métro)
 
-⚠️ Informations trafic en temps réel
+  ⚠️ Informations trafic en temps réel
 
-🎫 Détail des tarifs des tickets et abonnements pour les transports en commun
+  🎫 Détail des tarifs des tickets et abonnements pour les transports en commun
 
 
 🛠️ Outils et technologies utilisés 
 
-🐍 Python
+  🐍 Python
 
-⚙️ Django
+  ⚙️ Django
 
-📝 Visual Studio Code
+  📝 Visual Studio Code
 
-🗺️ API Lille Métropole 
+  🗺️ API Lille Métropole 
 
-🌤️ API Open Météo
+  🌤️ API Open Météo
 
-📡 Météo Lille
+  📡 Météo Lille
 
-🌐 Web Scraping et 🔍 Regex
+  🌐 Web Scraping et 🔍 Regex
 
-🗣️ Text-to-Speech (TTS)
+  🗣️ Text-to-Speech (TTS)
