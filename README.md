@@ -8,7 +8,7 @@ Pendant plusieurs semaines, avec 3 coéquipiers en formation data analyst, nous 
 
 💻 Un projet technique, mais aussi pensé pour être utile, accessible et concret, mêlant API, scraping, cartographie, géolocalisation et bien plus encore !
 
-➡️ Découvrez tous les outils utilisés et les fonctionnalités dans le descriptif ci-dessous.
+➡️ Découvrez tous les outils utilisés et les fonctionnalités dans le descriptif ci-dessous.  
 
 
 L’application propose :
